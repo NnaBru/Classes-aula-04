@@ -1,0 +1,50 @@
+*{
+    margin:0%
+}
+.container{
+    width: 100%;
+}
+#cabeçalho{
+    height: 120px;
+    background-color: #0B2447;
+}
+ul{
+    display: flex;
+    justify-content: center;
+}
+a{
+   padding: 30px;
+   list-style-type: none;
+   text-decoration: none;
+   font-size: 20px;
+   color: azure;
+}
+
+#areadaimagem{
+    height: 250px;
+    background-color: #19376D;
+}
+#doisibox{
+    height: 210px;
+    background-color: #576CBC;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+#tresbox{
+    height: 210px;
+    background-color: #B0DAFF;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.box{
+    width: 20%;
+    height: 200px;
+    border: 1px solid black;
+}
+#rodape{
+    height: 120px;
+    background-color: #0B2447;
+}
+
